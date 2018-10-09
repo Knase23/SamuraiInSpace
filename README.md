@@ -36,7 +36,7 @@ Levels should be designed to work as single player, to further play. But have ar
   - Launching slash - Get to higher or further then normal movement.
   - Nani slash combo - plays a in-game cutscene and deals HUGE amount of damage to the target.
 
-#### Co-Op interaction
+#### Player interaction with other players
 A player can throw other players to make them reach areas. They also request a other player to give there holding item. When they have requested a lot of times they get the option to make a small tug war.
 
 ## Alien
